@@ -1,5 +1,5 @@
 # deep-learning-intent-json
-Deep-learning. Intent determination. Json. Python. Transformer. NLP. Keras. Tensorflow 2.
+Deep learning. Intent determination. Json. Python. Transformer. NLP. Keras. Tensorflow 2.
 
 Uses a bi-directional transformer model for natural language processing 
 
