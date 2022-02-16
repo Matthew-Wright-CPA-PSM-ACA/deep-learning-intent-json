@@ -2,6 +2,7 @@
 # python main.py
 """
 Main script. See README.md 
+Matthew Wright, CPA, PSM, ACA
 """
 
 from ai_model.prep_intents import *
