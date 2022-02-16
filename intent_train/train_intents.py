@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # train_intents.py
+# Matthew Wright, CPA, PSM, ACA
 
 from ai_model.prep_intents import *
 
