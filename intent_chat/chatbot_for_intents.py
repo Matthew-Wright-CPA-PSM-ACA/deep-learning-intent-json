@@ -2,6 +2,7 @@
 
 # python chatbot_for_intents.py
 # please ensure to run python train_intents.py prior to running this
+# Matthew Wright, CPA, PSM, ACA
 
 from ai_model.prep_intents import *
 
