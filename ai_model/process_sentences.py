@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # process_sentences.py
+# Matthew Wright, CPA, PSM, ACA
 
 from re import sub as re_sub, search as re_search
 
