@@ -3,7 +3,9 @@ This is a NLP deep learning Python program using Keras / Tensorflow 2.
 
 It uses a bi-directional transformer model for natural language processing.
 
-Coded in a professional style to meet PEP8 standards. 
+Coded in a professional style to meet PEP8 standards. You can gain a 
+greater understanding of deep learning transformer NLP structure by reviewing
+the code and comments.
 
 Currently structured using a JSON file to match sentences with the 
 appropriate intent. Hence the intent determination logic coded within. 
