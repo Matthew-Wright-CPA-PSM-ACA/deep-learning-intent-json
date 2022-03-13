@@ -7,7 +7,7 @@ Coded in a professional style to meet PEP8 standards. You can gain a
 greater understanding of deep learning transformer NLP structure by reviewing
 the code and comments.
 
-Currently structured using a JSON file to match sentences with the 
+Currently structured using a JSON input file to match sentences with the 
 appropriate intent. Hence the intent determination logic coded within. 
 More file upload options will be added later.
 
