@@ -1,10 +1,13 @@
 # deep-learning-intent-json
-Deep learning. Intent determination. Json. Python. Transformer. NLP. Keras. Tensorflow 2.
+This is a NLP deep learning Python program using Keras / Tensorflow 2.
 
-Uses a bi-directional transformer model for natural language processing 
+It uses a bi-directional transformer model for natural language processing.
 
+Coded in a professional style to meet PEP8 standards. 
 
-Keras based deep-learning artificial intelligence example coded in Python. Imports from a JSON file.
+Currently set up to utilize a JSON file. More file upload options will be added later.
+
+Currently structured using a JSON file to match sentences with the appropriate intent. Hence the intent determination logic coded within. 
 
 Basic JSON format and a few examples are given. Actual JSON file is much larger for production use.
 
